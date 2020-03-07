@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+h1{
+	color: black;
+	font-size: 40pt;	
+}
+p{
+	color:#1F1D1D;
+	font-size: 10pt;
+	font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif'; 
+}
+p.alternativo{
+	color: black;
+	font-size: 40pt;
+	font-family: "Bebas Neue";
+}
+a:link {
+	color: mediumslateblue
+}
+a:visited {
+	color: darkorange
+}
